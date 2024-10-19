@@ -1,1 +1,2 @@
 "Github ogretisi"
+"ikinci yazi"
